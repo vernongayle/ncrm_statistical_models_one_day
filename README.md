@@ -12,45 +12,26 @@
 ### Outline:
 
 
-Statistical models are increasingly common in social science research. Many researchers whose interests are substantive rather than methodological struggle to understand these techniques and are disinclined to engage with research that employs these approaches.  This workshop is designed for researchers who would like to learn about statistical modelling. <br>
+The social world is complex and messy. Statistical models provide a formal approach to evaluate data, test ideas and investigate research questions. <br>
 
-This half day workshop will be orientated towards researchers who do not normally use statistical methods but would like to be introduced to statistical modelling. It will be ideal for busy researchers who do not have time to go on longer workshops or courses. It will also be a useful refresher course for researchers whose last encounter with statistics was during their undergraduate degree. <br>
-
-If you frequently skip over tables of statistical modelling results when reading journal articles then you will benefit from attending this workshop. <br>
-
-The event is intended to be engaging and informative and there will be audience participation and practical demonstrations. <br>
-
-Mathematical ability is not required. <br>
-
-Conceptual ideas relating to statistical modelling will be introduced at a level that, although technically elementary, shows how statistical ideas can address major social scientific issues. <br>
-
-The workshop will also point to training resources where greater depth of technical competence can be acquired.
-
+This is a one day workshop on statistical models for social science data analysis. It will introduce the underlying concepts associated with multivariate analysis using statistical models. The workshop will concentrate on models within the generalized linear modelling framework. It will cover linear regression, and models for binary, categorical, ordered categorical and count data. The focus of the workshop will on social science applications, and social science data and research questions will be showcased throughout. The emphasis will be on interpreting outputs (e.g. from data analysis software packages) and understanding published results. <br>
 
 ### Topics: 
 
-Basic Concepts in Statistical Data Analysis <br>
-Probability <br>
-Significance Tests <br>
-Relationships in Data <br>
-Correlations <br>
-Confidence Intervals <br>
-Bivariate Relationships <br>
-Ordinary Least Squares <br>
-Statistical Data Analysis Software <br>
-Interpreting Statistical Modelling Results <br>
+This workshop will be at an intermediate level. It will cover the following ideas and concepts <br>
+<br>
+•	The Multivariate World <br>
+•	Linear Regression <br>
+•	Generalized Linear Models <br>
+•	Modelling Binary Outcomes <br>
+•	Modelling Categorical Outcome <br>
+•	Modelling Order Categorical Outcomes <br>
+•	Modelling Count Data <br>
+•	More Exotic Models <br>
+•	Choosing and Criticising Models <br>
+•	Statistical Data Analysis Software <br>
+•	Communicating Statistical Modelling Results <br>
 
-
-### Link to Research Example
-
-Vernon Gayle, Susan Murray & Roxanne Connelly (2016) Young people and school General Certificate of Secondary Education attainment: looking for the ‘missing middle’, British Journal of Sociology of Education, 37:3, 350-370, DOI: 10.1080/01425692.2014.935292
-
-
-https://www.tandfonline.com/doi/full/10.1080/01425692.2014.935292
-(you may require academic institutional access)
-
-Link to Regression Model Table 3
-https://www.tandfonline.com/doi/figure/10.1080/01425692.2014.935292?scroll=top&needAccess=true
 
 ### Reading List: 
 
