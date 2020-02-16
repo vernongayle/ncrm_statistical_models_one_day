@@ -53,13 +53,17 @@ _This is a first class text book. It is clearly written and very comprehensive a
 
 #### The Workflow in Statistical Data Analysis
 
-Gayle, V.J. and Lambert, P.S. (2017) The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM.
+Gayle, V.J. and Lambert, P.S., 2017. The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM.
 http://eprints.ncrm.ac.uk/4000/<br>
 _A practical guide to the data analysis workflow._
 
 Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. College Station, TX: Stata Press.
 https://www.amazon.co.uk/Workflow-Data-Analysis-Using-Stata/dp/1597180475/ref=sr_1_1?s=books&ie=UTF8&qid=1530726163&sr=1-1&keywords=stata+workflow<br>
 _A fantastic book. This is the 'bible' of good data analysis workflow practices._
+
+#### A Useful Paper on Modelling Key Variables 
+
+Connelly, R., Gayle, V. and Lambert, P., 2016. Statistical modelling of key variables in social survey data analysis. Methodological Innovations. https://doi.org/10.1177/2059799116638002
 
 #### Longitudinal Data Analysis
 
