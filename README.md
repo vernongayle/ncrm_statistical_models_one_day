@@ -4,7 +4,7 @@
 ## This is a NCRM repository for *Statistical Modelling*
 
 
-### Workshop (April 2020)
+### Workshop (October 2022)
 
 ### A one day training workshop led by Professor Vernon Gayle, University of Edinburgh.
 <br>
