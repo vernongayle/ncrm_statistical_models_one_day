@@ -68,6 +68,10 @@ Connelly, R., Gayle, V. and Lambert, P., 2016. Statistical modelling of key vari
 Gayle, V., & Connelly, R. (2022). The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations.<br>
 https://doi.org/10.1177/20597991221111681
 
+#### Communicating Results from Statistical Models (NCRM Resource)
+Producing Automated Outputs (using Stata) by Dr Roxanne Connelly<br>
+https://www.ncrm.ac.uk/resources/online/all/?id=20788
+
 ###  Software Websites
 
 Stata https://www.stata.com/ <br>
