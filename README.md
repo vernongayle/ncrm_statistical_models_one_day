@@ -64,32 +64,16 @@ _A fantastic book. This is the 'bible' of good data analysis workflow practices.
 Connelly, R., Gayle, V. and Lambert, P., 2016. Statistical modelling of key variables in social survey data analysis. Methodological Innovations. https://doi.org/10.1177/2059799116638002
 
 
+###  Software Websites
 
-
-### Useful Stata Related Websites
-
-https://stats.idre.ucla.edu/stata/  <br>
-https://www.stata.com  <br>
-https://www.stata.com/links/resources-for-learning-stata/  <br>
-http://www.restore.ac.uk/Longitudinal/
-
-
-### Cheat Sheets (Stata)
-
-https://www.stata.com/links/resources-for-learning-stata/ <br>
-https://geocenter.github.io/StataTraining/portfolio/01_resource/  <br>
-https://www.datasciencecentral.com/group/resources/forum/topics/stata-cheat-sheet  <br>
-
-### Two Page Guide to Stata
-
-http://www-personal.umich.edu/~agrogan/stata/TwoPageStata.pdf
-
-### Alternative Software Websites
-
+Stata https://www.stata.com/ <br>
 SPSS	www.ibm.com/DataStatistics/SPSS <br>
 SAS  	www.sas.com <br>
 R		https://cran.r-project.org <br>
 Python	www.python.org <br>
 Julia	https://julialang.org/ <br>
+
+
+
 
 <br>
