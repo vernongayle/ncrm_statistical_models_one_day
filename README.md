@@ -39,7 +39,7 @@ This workshop will be at an intermediate level. It will cover the following idea
 
 Mehmetoglu, M. and Jakobsen, T.G., 2022. Applied statistics using Stata: a guide for the social sciences. Sage. <br>
 https://us.sagepub.com/en-us/nam/applied-statistics-using-stata/book275201<br>
-_This is a fabulous text. The first edition 2016 is excelent, it has now been updated.<br>
+_This is a fabulous text. The first edition 2016 is excelent, it has now been updated._<br>
 
 Pevalin, D. and Robson, K., 2009. The Stata survival manual. McGraw-Hill Education (UK).<br>
 https://www.mheducation.co.uk/the-stata-survival-manual-9780335223886-emea-group <br>
