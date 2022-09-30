@@ -63,6 +63,10 @@ _A fantastic book. This is the 'bible' of good data analysis workflow practices.
 
 Connelly, R., Gayle, V. and Lambert, P., 2016. Statistical modelling of key variables in social survey data analysis. Methodological Innovations. https://doi.org/10.1177/2059799116638002
 
+#### A new paper on transparent and reproducible research (a statistical modelling example)
+
+Gayle, V., & Connelly, R. (2022). The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations.<br>
+https://doi.org/10.1177/20597991221111681
 
 ###  Software Websites
 
