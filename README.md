@@ -42,8 +42,7 @@ https://us.sagepub.com/en-us/nam/applied-statistics-using-stata/book275201 <br>
 _This is a fabulous text. The first edition 2016 is excelent, it has now been updated.<br>
 
 Pevalin, D. and Robson, K., 2009. The Stata survival manual. McGraw-Hill Education (UK).<br>
-https://www.mheducation.co.uk/the-stata-survival-manual-9780335223886-emea-groupl<br>
-https://www.mheducation.co.uk/the-stata-survival-manual-9780335223886-emea-group
+https://www.mheducation.co.uk/the-stata-survival-manual-9780335223886-emea-group <br>
 _Many students like this introductory textbook._<br>
 
 Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press.<br>
