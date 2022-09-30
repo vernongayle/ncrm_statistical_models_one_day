@@ -39,13 +39,13 @@ These links are to Amazon (https://www.amazon.co.uk) but there are a number of o
 
 #### General Texts
 
+Mehmetoglu, M. and Jakobsen, T.G., 2022. Applied statistics using Stata: a guide for the social sciences. Sage.
+https://us.sagepub.com/en-us/nam/applied-statistics-using-stata/book275201 <br>
+_This is a fabulous text. The first edition 2016 is excelent, it has now been updated.
+
 Pevalin, D. and Robson, K., 2009. The Stata survival manual. McGraw-Hill Education (UK).
 https://www.amazon.co.uk/stata-survival-manual-Pevalin/dp/0335223885/ref=sr_1_1?ie=UTF8&qid=1530725105&sr=8-1&keywords=stata+survival+manual<br>
 _Many students like this introductory textbook._
-
-Mehmetoglu, M. and Jakobsen, T.G., 2016. Applied statistics using Stata: a guide for the social sciences. Sage.
-https://www.amazon.co.uk/Applied-Statistics-Using-Stata-Sciences/dp/1473913233/ref=sr_1_2?s=books&ie=UTF8&qid=1530725649&sr=1-2&keywords=Stata<br>
-_This is a first class text book. It is clearly written and very comprehensive_
 
 Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press.
 https://www.amazon.co.uk/Data-Analysis-Using-Stata-Third/dp/1597181102/ref=sr_1_1?s=books&ie=UTF8&qid=1530725888&sr=1-1&keywords=kohler+and+kreuter<br>
