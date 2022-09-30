@@ -46,7 +46,7 @@ https://www.mheducation.co.uk/the-stata-survival-manual-9780335223886-emea-group
 _Many students like this introductory textbook._<br>
 
 Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press.<br>
-https://www.stata.com/bookstore/data-analysis-using-stata/)r<br>
+https://www.stata.com/bookstore/data-analysis-using-stata/<br>
 _This is a first class text book. It is clearly written and very comprehensive and has successfully been used as a core textbook on several courses that I have taught._<br>
 
 #### The Workflow in Statistical Data Analysis
